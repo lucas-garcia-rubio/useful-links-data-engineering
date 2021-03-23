@@ -1,2 +1,5 @@
-# useful-links-data-engineering
-Um repositório para armazenar de forma organizada alguns links que considero útil e sempre acabo me recorrendo a eles.
+# Links úteis - Engenharia de Dados
+## Um repositório para armazenar de forma organizada alguns links que considero útil e sempre acabo me recorrendo a eles.
+
+#### Tutoriais importantes:
+* Construção de docker compose para [Deploy de Apache Airflow](https://towardsdatascience.com/deploy-apache-airflow-in-multiple-docker-containers-7f17b8b3de58)
