@@ -6,3 +6,6 @@
 
 #### Documentação:
 * [Apache Airflow Documentation](https://airflow.apache.org/docs/apache-airflow/stable/index.html)
+
+#### Dicas:
+* [Deploy Docker em produção](https://blog.cloud66.com/10-tips-for-docker-compose-hosting-in-production/)
