@@ -8,6 +8,7 @@
 #### Documentação:
 * [Apache Airflow Documentation](https://airflow.apache.org/docs/apache-airflow/stable/index.html)
 * [PostgreSQL Docker Hub Configuration](https://hub.docker.com/_/postgres)
+* [GitLab CI/CD](https://docs.gitlab.com/ee/ci/)
 
 #### Dicas:
 * [Deploy Docker em produção](https://blog.cloud66.com/10-tips-for-docker-compose-hosting-in-production/)
