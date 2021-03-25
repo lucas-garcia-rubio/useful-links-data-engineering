@@ -17,6 +17,9 @@
 #### Tutoriais - Linguages de Programação:
 * [SQL Tutorial Completo](https://mode.com/sql-tutorial/introduction-to-sql/)
 
+#### Tutoriais - Data Visualization:
+* [Data Visualisation with Tableau](https://www.datacamp.com/community/tutorials/data-visualisation-tableau)
+
 #### Documentação:
 * [Apache Airflow Documentation](https://airflow.apache.org/docs/apache-airflow/stable/index.html)
 * [PostgreSQL Docker Hub Configuration](https://hub.docker.com/_/postgres)
