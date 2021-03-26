@@ -28,3 +28,4 @@
 
 #### Dicas:
 * [Deploy Docker em produção](https://blog.cloud66.com/10-tips-for-docker-compose-hosting-in-production/)
+* [Tableau Dashboards - Best Practices](https://help.tableau.com/current/pro/desktop/en-us/dashboards_best_practices.htm)
