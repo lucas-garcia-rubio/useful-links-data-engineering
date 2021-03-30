@@ -26,6 +26,7 @@
 * [GitLab CI/CD](https://docs.gitlab.com/ee/ci/)
 * [Docker Reference](https://docs.docker.com/reference/)
 * [git log cheatsheet](https://devhints.io/git-log)
+* [Git Hooks](https://githooks.com/)
 
 #### Dicas:
 * [Deploy Docker em produção](https://blog.cloud66.com/10-tips-for-docker-compose-hosting-in-production/)
