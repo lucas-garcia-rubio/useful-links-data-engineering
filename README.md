@@ -31,3 +31,6 @@
 * [Deploy Docker em produção](https://blog.cloud66.com/10-tips-for-docker-compose-hosting-in-production/)
 * [Tableau Dashboards - Best Practices](https://help.tableau.com/current/pro/desktop/en-us/dashboards_best_practices.htm)
 * [Top 10 Tips to Master Data Dashboards](https://www.cyfe.com/blog/top-7-tips-creating-dashboards/)
+
+#### Palestras:
+* [Software Livre para empreendedores](http://slides.com/daianealvesrj/software-livre-para-empreendedores)
