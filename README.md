@@ -9,6 +9,10 @@
   * [Part I](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7)
   * [Part II](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-ii-47c4e7cbda71)
   * [Part III](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-the-series-finale-2cc92ff14b0)
+* Data Engineer Series:
+  * [Part I](https://dev.to/srinidhi/data-engineering-series-1-10-key-tech-skills-you-need-to-become-a-competent-data-engineer-2n46)
+  * [Part II](https://dev.to/srinidhi/data-engineering-series-2-cloud-services-and-foss-in-data-engineer-s-world-5c46)
+  * [Part III](https://dev.to/srinidhi/data-engineering-series-3-apache-airflow-the-modern-workflow-management-tool-what-do-you-need-to-know-78l)
 
 #### Tutoriais:
 * Construção de docker compose para [Deploy de Apache Airflow](https://towardsdatascience.com/deploy-apache-airflow-in-multiple-docker-containers-7f17b8b3de58)
