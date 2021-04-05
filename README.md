@@ -22,7 +22,7 @@
 * [SQL Tutorial Completo](https://mode.com/sql-tutorial/introduction-to-sql/)
 
 #### Tutoriais - Data Visualization:
-* [Data Visualisation with Tableau](https://www.datacamp.com/community/tutorials/data-visualisation-tableau)
+* [Data Visualization with Tableau](https://www.datacamp.com/community/tutorials/data-visualisation-tableau)
 
 #### Documentação:
 * [Apache Airflow Documentation](https://airflow.apache.org/docs/apache-airflow/stable/index.html)
