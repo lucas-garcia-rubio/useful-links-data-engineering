@@ -31,6 +31,7 @@
 * [Docker Reference](https://docs.docker.com/reference/)
 * [git log cheatsheet](https://devhints.io/git-log)
 * [Git Hooks](https://githooks.com/)
+* [PostgreSQL Official Documentation](https://www.postgresql.org/docs/13/index.html)
 
 #### Dicas:
 * [Deploy Docker em produção](https://blog.cloud66.com/10-tips-for-docker-compose-hosting-in-production/)
