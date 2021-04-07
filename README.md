@@ -44,3 +44,4 @@
 
 #### Metodologias ágeis e requisitos de software:
 * [Histórias de Usuário](https://www.atlassian.com/br/agile/project-management/user-stories)
+* [Priorização de Backlog: como ser mais produtivo na definição do escopo de um produto](https://medium.com/bossabox-insights/prioriza%C3%A7%C3%A3o-de-backlog-como-ser-mais-produtivo-na-defini%C3%A7%C3%A3o-do-escopo-de-um-produto-cb7aff683ded)
