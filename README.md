@@ -38,6 +38,7 @@
 * [Tableau Dashboards - Best Practices](https://help.tableau.com/current/pro/desktop/en-us/dashboards_best_practices.htm)
 * [Top 10 Tips to Master Data Dashboards](https://www.cyfe.com/blog/top-7-tips-creating-dashboards/)
 * [How to Master Data Visualization](https://modus.medium.com/https-medium-com-lucy-todd-how-to-master-data-visualization-7b82217a665a)
+* [Making Apache Airflow Highly Available](https://medium.com/softwaresanders/making-apache-airflow-highly-available-1cfcec8996f2)
 
 #### Palestras:
 * [Software Livre para empreendedores](http://slides.com/daianealvesrj/software-livre-para-empreendedores)
