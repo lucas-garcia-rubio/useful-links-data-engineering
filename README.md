@@ -41,3 +41,6 @@
 
 #### Palestras:
 * [Software Livre para empreendedores](http://slides.com/daianealvesrj/software-livre-para-empreendedores)
+
+#### Metodologias ágeis e requisitos de software:
+* [Histórias de Usuário](https://www.atlassian.com/br/agile/project-management/user-stories)
