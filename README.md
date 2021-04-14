@@ -17,6 +17,7 @@
 #### Tutoriais:
 * Construção de docker compose para [Deploy de Apache Airflow](https://towardsdatascience.com/deploy-apache-airflow-in-multiple-docker-containers-7f17b8b3de58)
 * Demonstração simples de [GitLab CI/CD](https://www.digitalocean.com/community/tutorials/como-configurar-pipelines-de-integracao-continua-com-o-gitlab-ci-no-ubuntu-16-04-pt)
+* [The basics of CI: How to run jobs sequentially, in parallel, or out of order](https://about.gitlab.com/blog/2020/12/10/basics-of-gitlab-ci-updated/)
 
 #### Tutoriais - SQL:
 * [SQL Tutorial Completo](https://mode.com/sql-tutorial/introduction-to-sql/)
