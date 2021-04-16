@@ -51,3 +51,6 @@
 
 #### Overviews:
 * [Overview of Docker Compose](https://docs.docker.com/compose/#compose-documentation)
+
+#### Redes e Certificados:
+* [SSL Certificate Verification](https://curl.se/docs/sslcerts.html)
