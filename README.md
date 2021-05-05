@@ -19,6 +19,7 @@
 * Demonstração simples de [GitLab CI/CD](https://www.digitalocean.com/community/tutorials/como-configurar-pipelines-de-integracao-continua-com-o-gitlab-ci-no-ubuntu-16-04-pt)
 * [The basics of CI: How to run jobs sequentially, in parallel, or out of order](https://about.gitlab.com/blog/2020/12/10/basics-of-gitlab-ci-updated/)
 * [DAG Factories](https://towardsdatascience.com/dag-factories-a-better-way-to-airflow-9aa3cf003169)
+* [Como desenvolver com GitFlow](https://www.atlassian.com/br/git/tutorials/comparing-workflows/gitflow-workflow#:~:text=Gitflow%20Workflow%20%C3%A9%20um%20design,robusta%20para%20gerenciar%20projetos%20maiores.)
 
 #### Tutoriais - SQL:
 * [SQL Tutorial Completo](https://mode.com/sql-tutorial/introduction-to-sql/)
