@@ -56,3 +56,4 @@
 
 #### Redes e Certificados:
 * [SSL Certificate Verification](https://curl.se/docs/sslcerts.html)
+* [SSL/TLS verification inside Dockerfile](https://lucasgarciarubio.medium.com/ssl-tls-verification-inside-dockerfile-dd2c82ff80c)
