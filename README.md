@@ -24,6 +24,7 @@
 * [Documentation in Software Architecture](https://medium.com/@nvashanin/documentation-in-software-architecture-4f2e4159c4fc)
 * [Architectural Decision Records na Conta Azul](https://engineering.contaazul.com/architectural-decision-records-na-conta-azul-cfbb0f71e8ab)
 * [Airflow -> StatsD Exporter](https://towardsdatascience.com/airflow-in-docker-metrics-reporting-83ad017a24eb)
+* [Dockering with Monitoring System](https://grafana.com/grafana/dashboards/893)
 
 #### Tutoriais - SQL:
 * [SQL Tutorial Completo](https://mode.com/sql-tutorial/introduction-to-sql/)
