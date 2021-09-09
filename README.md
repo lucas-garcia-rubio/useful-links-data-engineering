@@ -26,6 +26,7 @@
 * [Airflow -> StatsD Exporter](https://towardsdatascience.com/airflow-in-docker-metrics-reporting-83ad017a24eb)
 * [Dockering with Monitoring System](https://grafana.com/grafana/dashboards/893)
 * [REST API with Python](https://realpython.com/api-integration-in-python/)
+* [Spark by Examples](https://sparkbyexamples.com/)
 
 #### Tutoriais - SQL:
 * [SQL Tutorial Completo](https://mode.com/sql-tutorial/introduction-to-sql/)
