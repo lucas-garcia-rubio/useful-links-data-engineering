@@ -68,3 +68,7 @@
 #### Awesome:
 * [Awesome Scala](https://github.com/lauris/awesome-scala)
 * [Awesome Python](https://github.com/vinta/awesome-python)
+
+#### Apache Spark:
+* [Spark By Examples](https://sparkbyexamples.com/)
+* [The art of joining in Spark](https://towardsdatascience.com/the-art-of-joining-in-spark-dcbd33d693c)
